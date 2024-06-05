@@ -11,6 +11,9 @@
 	- 病灶定位（在哪层）
 		- 神经上皮脱离
 		- 色素上皮脱离
+
+> Written with [StackEdit中文版](https://stackedit.cn/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzk0NzMxMTddfQ==
+eyJoaXN0b3J5IjpbLTIxMTIxMTg3MTAsLTE0Nzk0NzMxMTddfQ
+==
 -->
